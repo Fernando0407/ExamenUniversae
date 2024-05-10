@@ -1,0 +1,9 @@
+# Ignorar todos los archivos .log
+*.log
+
+# Ignorar directorios de configuración de IDE
+.idea/
+*.class
+
+# Ignorar directorio de salida de compilación
+/build/
